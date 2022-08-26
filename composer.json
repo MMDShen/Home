@@ -1,0 +1,17 @@
+{
+    "name": "mom/newsheet",
+    "autoload": {
+
+        "psr-4": {
+            
+            "Mom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Sharafi",
+            "email": "who.we.are.speaking.about@gmail.com"
+        }
+    ],
+    "require": {}
+}
